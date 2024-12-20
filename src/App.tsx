@@ -104,7 +104,7 @@ function App() {
 
       <div className="header-profile">
         <img
-          src="https://i.ibb.co.com/pvrDckv/ganarkf-pp.png"
+          src="https://i.ibb.co.com/KDgmr7s/ganarkf-pp.png"
           alt="Ganar KF"
           className="profile-picture"
         />
