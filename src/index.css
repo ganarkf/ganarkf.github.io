@@ -102,6 +102,16 @@ body::before {
   }
 }
 
+@media (max-width: 640px) {
+  body::before {
+    background: #000;
+    animation: none;
+  }
+  .laser-line {
+    display: none;
+  }
+}
+
 h1 {
   font-size: 3em;
   line-height: 1;
