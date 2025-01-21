@@ -106,6 +106,7 @@ body::before {
   body::before {
     background: #000;
     animation: none;
+    filter: blur(8px);
   }
   .laser-line {
     display: none;

@@ -35,13 +35,20 @@ function App() {
     }
   };
 
-  const { ref: scrambleRef } = useScramble({
+  const { ref: scrambleRef, replay: replayScramble } = useScramble({
     text: 'Ganar KF',
     speed: 0.5,
     step: 1,
     tick: 1,
     scramble: 5,
   });
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      replayScramble();
+    }, 7500);
+    return () => clearInterval(interval);
+  }, [replayScramble]);
 
   useEffect(() => {
     document.addEventListener('click', handleOutsideClick);
