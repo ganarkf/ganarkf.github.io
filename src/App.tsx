@@ -131,9 +131,10 @@ function App() {
           vibin' and playin' on the chain.
         </p>
         <p>
-          My free time? I play drums and guitar, mostly in my genre which people
-          often ask me to change it when I play the song, haha. Hit me up for a
-          beer break and some talks 🥂
+        My free time? I jam on drums and guitar, 
+        usually sticking to my genre though people often nudge me to switch it up when I play, haha. 
+        I’m also big into AAA games, diving into those epic worlds whenever I get the chance. 
+        Hit me up for a coffee break and some chill talks! 🥂
         </p>
       </div>
 
