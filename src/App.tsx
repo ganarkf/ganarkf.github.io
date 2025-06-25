@@ -134,7 +134,7 @@ function App() {
         My free time? I jam on drums and guitar, 
         usually sticking to my genre though people often nudge me to switch it up when I play, haha. 
         I’m also big into AAA games, diving into those epic worlds whenever I get the chance. 
-        Hit me up for a coffee break and some chill talks! 🥂
+        Hit me up for a coffee break and some chill talks!
         </p>
       </div>
 
