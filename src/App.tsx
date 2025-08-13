@@ -280,6 +280,53 @@ function App() {
               </div>
             </div>
           </div>
+
+          <div className="project-card">
+            <a
+              href="https://ganarkf.github.io/login-page-example-react/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://i.ibb.co.com/7J0n6s3M/web-cover.png"
+                className="project-image"
+              />
+            </a>
+            <div className="project-body">
+              <h3 className="project-title">Login Page Example</h3>
+              <p className="project-description">
+                Login page example for coal transhipment company. Built with React and Vite.
+              </p>
+              <div className="project-footer">
+                <p>Web</p>
+                <p>2025</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="project-card">
+            <a
+              href="https://ganarkf.github.io/reimbursement-form-example-codeigniter3/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src="https://i.ibb.co.com/7J0n6s3M/web-cover.png"
+                className="project-image"
+              />
+            </a>
+            <div className="project-body">
+              <h3 className="project-title">Reimbursement Form Example</h3>
+              <p className="project-description">
+                Reimbursement form page example. Built with CodeIgniter3.
+              </p>
+              <div className="project-footer">
+                <p>Web</p>
+                <p>2025</p>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </>
