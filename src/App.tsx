@@ -118,17 +118,17 @@ function App() {
         <div className="profile-intro">
           <p className="hi-text">Hi, I'm</p>
           <p className="name" ref={scrambleRef}></p>
-          <p className="headline">Savvy Overthinker | Script Swindler</p>
+          <p className="headline">Software & Systems Engineer</p>
         </div>
       </div>
 
       <div className="about">
         <p>
-          What's up! I'm a programmer, just out here learnin' everything. I
-          ain't bout that manual labor, so I hopped into computer science to
-          make things easier cause most of the things I do been on the computer
-          and the internet since I was a kid. Right now, I'm interested for
-          vibin' and playin' on the chain.
+          Sup! I'm a Software Engineer, just out here learnin' everything I want. 
+          My journey started with a love for taking tons of experiments and ideas, 
+          then turning them into neat lines of code.
+          Right now, I'm interested for vibin' and playin' on the chain. 
+          I'm very obsessed with solving problems and always hungry for new challenges and new things.
         </p>
         <p>
         My free time? I jam on drums and guitar, 
@@ -271,7 +271,7 @@ function App() {
             <div className="project-body">
               <h3 className="project-title">Get DS Top Traders</h3>
               <p className="project-description">
-                Get Solana token top traders wallet list from Dexscreener. Built
+                Get Solana token top traders wallet list from DEXScreener. Built
                 with Selenium and Python.
               </p>
               <div className="project-footer">
